@@ -97,7 +97,7 @@ $ expo start
 # Será informado um IP (o da sua máquina) pelo expo, vamos precisar dele para substituir no arquivo
 # "ignite-n-react-native-ignite-gym/mobile/src/services/api.ts" para se comunicar com o servidor.
 ```
-Para rodar os servidor(API)
+Para rodar o servidor(API)
  
 ```bash
 # Estando na pasta ignite-n-react-native-ignite-gym
