@@ -124,7 +124,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 <h3>Comandos utilizados</h3>
 
 ```bash
-  ➜  RNative npx create-expo-app ignitegym --template
+  ➜ npx create-expo-app ignitegym --template
   ✔ Choose a template: › Blank (TypeScript)
 
   # Utilizado para fazer o mapeamento das pastas
